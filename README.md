@@ -1,12 +1,16 @@
-### **_Bem Vindo ao meu Perfil Cursos do Alura_** 💻
+### **_Bem Vindo ao meu Perfil de Tecnologia no Alura_** 💻
 
 Meu nome é `Lilian Hoshida`
 
-- Estou estudando na Alura
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
-
-### **_Você pode entrar em contato comigo_** 📫
+- Engenheira de Materiais
+- Mestrado em Engenharia Mecânica e Aeronáutica
+- Doutorado em Engenharia Aeroespacial
+- Tecnóloga em Sistemas de Telecomunicações
+- Licenciatura em Matemática R2
+- Professora de Matemática e Tecnologia
+- Utilizo esse espaço para minha organização e compartilhamento de projetos.
+  
+### **_Contato_** 📫
 
 @lilianhoshida@prof.educacao.sp.gov.br
 
